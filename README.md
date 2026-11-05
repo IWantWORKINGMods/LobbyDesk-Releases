@@ -2,6 +2,9 @@
 
 Windows app by **IWANTMOREMODS**.
 
+Lobby Desk Is A Desktop Application made for creating Fortnite Bot Lobbys/Matches, this sourse DOES work and tested muiltpe times. 
+CURRENT SUPPORTED GAMES MODES: BR Duo,Trio,Sqauds. No RANKED Or OG BR Nor Any Other Game Modes. Customers will get Desktop App Updates. FORTNITE UPDATES/Downtime MAY EFFECT MATCHMAKING STATUS (Check LobbyDesk Site For Epic Games Operational Status.)
+
 [Download LobbyDesk.exe](https://github.com/IWantWORKINGMods/LobbyDesk-Releases/releases/latest/download/LobbyDesk.exe) · [Release notes](https://github.com/IWantWORKINGMods/LobbyDesk-Releases/releases) · [Support](https://github.com/IWantWORKINGMods/LobbyDesk-Releases/issues)
 
 This repository contains public downloads and support information. Application source and build workflows are maintained separately.
